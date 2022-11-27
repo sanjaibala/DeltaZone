@@ -68,7 +68,7 @@ public class DeltaZoneRunner extends DeltaZoneLogin001{
         revert(driver);
 
         //Log out
-        logOut(driver);
+        //logOut(driver);
 
         // Need to verify addDirectory, rename, delete ,move within "Directory" ----------pending
         // at end page should be "File manager" - Done
